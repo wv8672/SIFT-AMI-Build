@@ -1,5 +1,7 @@
 # SIFT_AMI_Builder
-Contains JSON files to build a SIFT Forensics Workstation AWS AMI from an exported Ubuntu Desktop .ova
+##### Contains JSON files to build a SIFT Forensics Workstation AWS AMI from an exported Ubuntu Desktop .ova
+
+-------------------------------------------------------------------------------------------------------
 
 ![alt text](https://camo.githubusercontent.com/88f7a671578a17f5e14d2227fb2d7fca9fa0b1f7/68747470733a2f2f6469676974616c2d666f72656e736963732e73616e732e6f72672f696d616765732f736966742e706e67)
 
