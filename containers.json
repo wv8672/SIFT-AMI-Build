@@ -1,0 +1,10 @@
+[
+  {
+    "Description": "Capstone SIFT Workstation AMI",
+    "Format": "ova",
+    "UserBucket": {
+        "S3Bucket": "capstone-sift-workstation-ami",
+        "S3Key": "capstone-sift-workstation-ami.ova"
+    }
+  }
+]
