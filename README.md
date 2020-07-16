@@ -175,7 +175,6 @@ aws ec2 import-image --description "SIFT AMI" --disk-containers file://sift-ami/
 ```
 
 #### NOTE: At this point the AMI is created:
-The EC2 resource AMI section within the selected region contains the new SIFT AMI. This is what will be used to automatically build SIFT EC2’s in the incident response  Python scripts. 
+The EC2 resource AMI section within the selected region contains the new SIFT AMI. This is what will be used to automatically build SIFT EC2’s in the incident response Python scripts. 
 
-### AMI ID: ami-0faead58612458329
 
